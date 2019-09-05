@@ -484,7 +484,7 @@ GARD یک نشانه در سطح سیستم است ، به عنوان واسطه
 
 #### 100 میلیارد نشانه GARD   صادر شد و به شرح زیر توزیع می شود: ####
 
-![Minion](تصویر)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.6.png)
 
 \* توجه: آخرین گردش مالی  GARD در اطلاعیه های رسمی نمایش داده می شود
 
@@ -516,7 +516,7 @@ GARD یک نشانه در سطح سیستم است ، به عنوان واسطه
 2. هزینه های عملیاتی (برای جذب نمایندگان بیشتر)
 3. هزینه های نگهداری دارایی (GARD  خود متعهد)
 
-![Minion](تصویر)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.6.3.png)
 
 ###                 3.6.3 نمایندگان  ###
 
@@ -618,18 +618,22 @@ fee = gas \* gasPrice
 
 ###        3.9 تیم اولیه  ###
 
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.9.png)
 
 ***
 
 ###        3.10 مشاوران استراتژیک  ###
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.2.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.1.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png)
+
 
 ***
 
 ###  3.11  شرکا  ###
 
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/3.11.png)
+
 ** فصل چهارم - امور حقوقی و بیانیه ریسک **
 
  بنیاد هشگارد سنگاپور با مسئولیت محدود هیچ گونه تضمینی در رابطه با هشگارد و نشانه های GARD ارائه نمی دهد ، مگر اینکه به صراحت در این مقاله سفید و در وب سایت رسمی بیان شده باشد. هرکسی که در برنامه فروش نشانه گارد شرکت کرده و خرید کند ، بر اساس دانش خود درمورد پروژه هشگارد و نشانه های GARD ، قوانین و مقررات و اطلاعات موجود در این مقاله سفید است. بدون در نظر گرفتن کلی بودن موارد فوق ، همه شرکت کنندگان بدون توجه به مشخصات فنی ، پارامترها ، عملکرد یا عملکرد آن ، پس از راه‌اندازی پروژه زنجیره عمومی هشگارد ، نمادGARD  را قبول خواهند کرد.
@@ -659,7 +663,5 @@ fee = gas \* gasPrice
 
 علاوه بر این ، خطرات ذکر شده یا پیش بینی شده توسط بنیاد هشگارد سنگاپور با مسئولیت محدود و تیم وجود ندارد. در حداکثر محدوده مجاز توسط قوانین قابل اجرا ، برای خسارت و خطرات ناشی از مشارکت ، از جمله اما محدود به آسیب های مستقیم یا غیرمستقیم شخصی ، از دست دادن سودهای تجاری ، از دست دادن اطلاعات تجاری و سایر خسارات اقتصادی، بنیاد هشگارد و تیم استفاده خواهند کرد. هیچ مسئولیتی را تحمل نمی کند شرکت کنندگان باید پیش از تصمیم گیری ، پیشینه تیم را کاملاً درک کنند ، چارچوب یکپارچه و تفکر پروژه را بشناسند و به صورت عقلانی شرکت کنند.
 
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
+![Minion](https://github.com/smtp132/hashgard/blob/master/00000.png)
 </div>
