@@ -679,6 +679,6 @@ fee = gas \* gasPrice
 ![Minion](https://github.com/smtp132/hashgard/blob/master/00000.png){ width=100% }
 
 ***
+![a-kitten.jpg](https://github.com/smtp132/hashgard/blob/master/00000.png =200x200)
 
-![drawing](https://github.com/smtp132/hashgard/blob/master/00000.png){ width=100% }
 </div>
