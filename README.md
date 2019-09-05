@@ -485,9 +485,7 @@ GARD یک نشانه در سطح سیستم است ، به عنوان واسطه
 
 #### 100 میلیارد نشانه GARD   صادر شد و به شرح زیر توزیع می شود: ####
  
- 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.6.png)
-
+<img src="https://github.com/smtp132/hashgard/blob/master/3.6.png" width="100%"/>
 
 \* توجه: آخرین گردش مالی  GARD در اطلاعیه های رسمی نمایش داده می شود
 
@@ -519,7 +517,7 @@ GARD یک نشانه در سطح سیستم است ، به عنوان واسطه
 2. هزینه های عملیاتی (برای جذب نمایندگان بیشتر)
 3. هزینه های نگهداری دارایی (GARD  خود متعهد)
 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.6.3.png)
+<img src="https://github.com/smtp132/hashgard/blob/master/3.6.3.png" width="100%"/>
 
 ###                 3.6.3 نمایندگان  ###
 
@@ -637,6 +635,11 @@ fee = gas \* gasPrice
 ****
 
 <img src="https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png" width="100%"/>
+
+***
+
+***
+
 
 ***
 
