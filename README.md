@@ -617,17 +617,27 @@ fee = gas \* gasPrice
 
 ![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
 
+
 ***
 
 ###        3.9 تیم اولیه  ###
+
 
 ![Minion](https://github.com/smtp132/hashgard/blob/master/3.9.png)
 
 ***
 
 ###        3.10 مشاوران استراتژیک  ###
+
+
 ![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.2.png)
+
+***
+
 ![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.1.png)
+
+****
+
 ![Minion](https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png)
 
 
