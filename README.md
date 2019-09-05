@@ -615,37 +615,34 @@ fee = gas \* gasPrice
 
 ###        3.8 اکوسیستم  ###
 
-![Minion](https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png)
-
+<img src="https://github.com/hashgard/whitepaper/blob/master/pics/ecosystem_en.png" width="100%"/>
 
 ***
 
 ###        3.9 تیم اولیه  ###
 
-
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.9.png)
+<img src="https://github.com/smtp132/hashgard/blob/master/3.9.png" width="100%"/>
 
 ***
 
 ###        3.10 مشاوران استراتژیک  ###
 
 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.2.png)
+<img src="https://github.com/smtp132/hashgard/blob/master/3.10.2.png" width="100%"/>
 
 ***
 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.10.1.png)
+<img src="https://github.com/smtp132/hashgard/blob/master/3.10.1.png" width="100%"/>
 
 ****
 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png)
-
+<img src="https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png" width="100%"/>
 
 ***
 
 ###  3.11  شرکا  ###
 
-![Minion](https://github.com/smtp132/hashgard/blob/master/3.11.png)
+<img src="https://github.com/smtp132/hashgard/blob/master/3.11.png" width="100%"/>
 
 ** فصل چهارم - امور حقوقی و بیانیه ریسک **
 
@@ -675,8 +672,6 @@ fee = gas \* gasPrice
 18. کلیه عوامل خطر افشا شده در این مقاله سفید و کلیه خسارت ها ، ضررها ، مطالبات ، بدهی ها ، مجازات ها ، هزینه ها یا اثرات منفی ناشی از این عوامل خطر.
 
 علاوه بر این ، خطرات ذکر شده یا پیش بینی شده توسط بنیاد هشگارد سنگاپور با مسئولیت محدود و تیم وجود ندارد. در حداکثر محدوده مجاز توسط قوانین قابل اجرا ، برای خسارت و خطرات ناشی از مشارکت ، از جمله اما محدود به آسیب های مستقیم یا غیرمستقیم شخصی ، از دست دادن سودهای تجاری ، از دست دادن اطلاعات تجاری و سایر خسارات اقتصادی، بنیاد هشگارد و تیم استفاده خواهند کرد. هیچ مسئولیتی را تحمل نمی کند شرکت کنندگان باید پیش از تصمیم گیری ، پیشینه تیم را کاملاً درک کنند ، چارچوب یکپارچه و تفکر پروژه را بشناسند و به صورت عقلانی شرکت کنند.
-
-![Minion](https://github.com/smtp132/hashgard/blob/master/00000.png =200x200)
 
 ***
 <img src="https://github.com/smtp132/hashgard/blob/master/00000.png" width="100%"/>
