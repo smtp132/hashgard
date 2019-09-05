@@ -621,7 +621,13 @@ fee = gas \* gasPrice
 
 <img src="https://github.com/smtp132/hashgard/blob/master/3.9.png" width="100%"/>
 
+
 ***
+
+
+***
+
+
 
 ###        3.10 مشاوران استراتژیک  ###
 
@@ -635,11 +641,6 @@ fee = gas \* gasPrice
 ****
 
 <img src="https://github.com/smtp132/hashgard/blob/master/3.10%2B0.png" width="100%"/>
-
-***
-
-***
-
 
 ***
 
